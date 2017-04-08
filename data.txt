@@ -1,0 +1,28 @@
+//name
+//id 
+//friends
+//requests
+
+//All comments after data mark will get deleted on re-write
+//The users ids need to be in order for this to work
+--Mark Data--
+User1
+0
+1 
+
+User2
+1
+0 
+
+User3
+2
+
+0 
+User4
+3
+
+0 
+User5
+4
+
+0 

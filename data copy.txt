@@ -1,0 +1,23 @@
+//name
+//id 
+//friends
+//requests
+
+//Primary Key
+3
+
+//All comments after data mark will get deleted on re-write
+--Mark Data--
+
+name
+1
+3 4 5
+6
+second
+2
+3 2 4
+1
+third
+0
+0
+0

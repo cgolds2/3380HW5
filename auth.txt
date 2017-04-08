@@ -1,0 +1,23 @@
+//The structure is username {newline} password
+//comments cannot be between username and password, and must contain "//"
+//usernames cannot contain "//"
+//passwords must be in SHA-256 form. Plaintext fields in program will be converted to compare
+//
+//password = "password1"
+User1
+0b14d501a594442a01c6859541bcb3e8164d183d32937b851835442f69d5c94e
+//
+//password = "password2"
+User2
+6cf615d5bcaac778352a8f1f3360d23f02f34ec182e259897fd6ce485d7870d4
+
+//password = "testt"
+User3
+822e54d37dd37d83776ed8aac05e4578e8b201d8f3fa366bdc60b75228bc835f
+
+//password = "another"
+User4
+ae448ac86c4e8e4dec645729708ef41873ae79c6dff84eff73360989487f08e5
+//password = "password5"
+User5
+8b2c86ea9cf2ea4eb517fd1e06b74f399e7fec0fef92e3b482a6cf2e2b092023
